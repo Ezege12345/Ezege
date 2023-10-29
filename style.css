@@ -1,0 +1,17 @@
+.circle{
+    height: 50px;
+    width: 100px;
+    background-color: blue;
+    border: solid 1px;
+
+
+
+}
+
+.par{
+    height: 80vh;
+    background-color: #ebdd18;
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    
+}
